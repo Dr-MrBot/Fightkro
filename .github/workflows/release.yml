@@ -1,0 +1,36 @@
+name: Create Release & Upload APK
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v1.0.0
+          name: "FightKro v1.0.0 — Signed Android APK"
+          body: |
+            ## 🥊 FightKro — Sansad Showdown (v1.0.0)
+            
+            ### 📱 Standalone Android Release
+            - **Package**: `com.drmrbot.fightkro`
+            - **Signature**: Android Signature Scheme v2 (Signed by Dr-MrBot)
+            - **File Size**: ~31.8 MB
+            - **Features**: 100% offline 3D models, sound effects, hardware acceleration, full-screen immersion.
+            
+            ### ⬇️ Download
+            Tap **`FightKro-signed.apk`** below to download and install on your Android device!
+          files: FightKro-signed.apk
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
