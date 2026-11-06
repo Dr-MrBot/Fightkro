@@ -1,20 +1,26 @@
+<div align="center">
+
+<img src="icon-512.png" width="130" height="130" alt="FightKro Logo" style="border-radius: 28px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" />
+
 # 🥊 FIGHTKRO — SANSAD SHOWDOWN
 ### *A 3D Political Satire Fighting Game for Web & Android Mobile*
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&pause=1200&color=F59E0B&center=true&vCenter=true&width=800&height=80&lines=🥊+SANSAD+SHOWDOWN+%E2%80%94+FIGHTKRO;⚡+THE+GREAT+DESI+KURSI+BATTLE+IN+FULL+3D!;👑+9+CARICATURE+NETAS+%C2%B7+SPECIALS+%C2%B7+COMBOS;🔥+DEVELOPED+%26+CRAFTED+BY+DR-MRBOT;📱+STANDALONE+SIGNED+ANDROID+APK+READY+TO+PLAY!" alt="Typing Banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F59E0B&center=true&vCenter=true&width=750&height=60&lines=🥊+SANSAD+SHOWDOWN+%E2%80%94+FIGHTKRO;⚡+THE+GREAT+DESI+KURSI+BATTLE+IN+FULL+3D!;👑+9+CARICATURE+NETAS+%C2%B7+SPECIALS+%C2%B7+COMBOS;🔥+DEVELOPED+%26+CRAFTED+BY+DR-MRBOT;📱+STANDALONE+SIGNED+ANDROID+APK+READY+TO+PLAY!" alt="Typing Banner" />
 
 <p align="center">
-  <a href="https://github.com/Dr-MrBot/Fightkro/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/Download_APK-FightKro--signed.apk-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  <a href="https://github.com/Dr-MrBot/Fightkro/raw/main/FightKro-signed.apk">
+    <img src="https://img.shields.io/badge/⬇️_Direct_Download-FightKro--signed.apk_(31.8_MB)-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
   <a href="https://github.com/Dr-MrBot">
     <img src="https://img.shields.io/badge/Developer-Dr--MrBot-blue?style=for-the-badge&logo=github&logoColor=white" alt="Developer" />
   </a>
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Web-orange?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Platform" />
-  <img src="https://img.shields.io/badge/Engine-Three.js%20(WebGL)-ff5722?style=for-the-badge&logo=three.js&logoColor=white" alt="Engine" />
-  <img src="https://img.shields.io/badge/Build-Signed%20v2%20Pass-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Build Status" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Windows%20%7C%20Web-orange?style=flat-square&logo=googlechrome&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/Engine-Three.js%20(WebGL)-ff5722?style=flat-square&logo=three.js&logoColor=white" alt="Engine" />
+  <img src="https://img.shields.io/badge/Signature-APK%20v2%20Signed-success?style=flat-square&logo=android&logoColor=white" alt="APK v2 Signed" />
+  <img src="https://img.shields.io/badge/Assets-100%25%20Offline-blueviolet?style=flat-square" alt="Offline Assets" />
 </p>
 
 ---
@@ -24,8 +30,8 @@
 ## 🌟 Quick Download & Play
 
 | Platform | Download / Launch | Description |
-| :--- | :--- | :--- |
-| 📱 **Android Mobile** | [**⬇️ Download FightKro-signed.apk**](FightKro-signed.apk?raw=true) | Standalone signed APK with offline 3D models, sound effects, and full-screen immersion. |
+| :--- | :---: | :--- |
+| 📱 **Android Mobile** | [**⬇️ Download FightKro-signed.apk**](https://github.com/Dr-MrBot/Fightkro/raw/main/FightKro-signed.apk) | Standalone signed APK with offline 3D models, sound effects, adaptive icon, and full-screen immersion. |
 | 💻 **PC / Windows** | **Double-click [`PLAY-GAME.bat`](PLAY-GAME.bat)** | Instant one-click local server with zero setup (no XAMPP needed). |
 | 🌐 **Local Web** | `http://localhost:8080/` | Run via `python server.py` or `node server.js` or Apache XAMPP. |
 
@@ -35,7 +41,7 @@
 
 **FightKro (Sansad Showdown)** is a fast-paced, humorous 3D fighting game celebrating the vibrant spectacle of Indian political satire. Battle across iconic stages, unleash over-the-top special moves, call in Nirmala's Budget, and claim the ultimate Kursi!
 
-### ✨ Core Features
+### ✨ Key Features
 
 - 🥊 **Full 3D Real-Time Physics & Animation**: Powered by Three.js with Draco-compressed 3D caricatures, dynamic shadows, and comic visual fx.
 - 🎙️ **Live Newsdesk & Ticker Commentary**: Real-time breaking news updates from *Breaking Bakwas* and *Troll Army* reacting to every punch, combo, and blunder.
@@ -52,15 +58,15 @@
 
 | Neta | Style | Archetype | Super / Signature Move |
 | :---: | :---: | :---: | :--- |
-| **MitraMan** | 🟠 Saffron Striker | Brawler | **Mitra Chakra** & 56-inch Masterstroke |
-| **Yatra Boy** | 🔵 Blue Striker | Speedster | **Mohabbat Punch** & Yatra Marathon Dash |
-| **Deedee** | 🟢 Bengal Brawler | Agile Fighter | **Khela Hobe** Storm & Didi Roar |
-| **Tariff Taau** | 🔴 Tariff Titan | Heavy Tank | **50% Tariff Crate Barrage** & Wall Smash |
-| **Dozer Dada** | 🟠 Bulldozer Justice | Grappler | **Bulldozer Summon** & Strict Order Crush |
-| **Toll Man** | 🟡 Highway King | Mid-Range | **Fastag Laser** & Expressway Slam |
-| **Sutti Babu** | 🟣 Chai Specialist | Counter | **Karak Chai Throw** & Adhiraj Strike |
-| **Rail Raja** | 🟢 Railway Baron | Power | **Kulhad Blast** & Rail Track Sweep |
-| **Mbapu (Boss)** | 🟡 Final Boss | Secret Boss | **Non-Violence Portal** & Budget Summon |
+| <img src="faces/modi.webp" width="48" height="48" style="border-radius:50%" /><br>**MitraMan** | 🟠 Saffron Striker | Brawler | **Mitra Chakra** & 56-inch Masterstroke |
+| <img src="faces/rahul.webp" width="48" height="48" style="border-radius:50%" /><br>**Yatra Boy** | 🔵 Blue Striker | Speedster | **Mohabbat Punch** & Yatra Marathon Dash |
+| <img src="faces/didi.webp" width="48" height="48" style="border-radius:50%" /><br>**Deedee** | 🟢 Bengal Brawler | Agile Fighter | **Khela Hobe** Storm & Didi Roar |
+| <img src="faces/trump.webp" width="48" height="48" style="border-radius:50%" /><br>**Tariff Taau** | 🔴 Tariff Titan | Heavy Tank | **50% Tariff Crate Barrage** & Wall Smash |
+| <img src="faces/yogi.webp" width="48" height="48" style="border-radius:50%" /><br>**Dozer Dada** | 🟠 Bulldozer Justice | Grappler | **Bulldozer Summon** & Strict Order Crush |
+| <img src="faces/nitin.webp" width="48" height="48" style="border-radius:50%" /><br>**Toll Man** | 🟡 Highway King | Mid-Range | **Fastag Laser** & Expressway Slam |
+| <img src="faces/ravi.webp" width="48" height="48" style="border-radius:50%" /><br>**Sutti Babu** | 🟣 Chai Specialist | Counter | **Karak Chai Throw** & Adhiraj Strike |
+| <img src="faces/lalu.webp" width="48" height="48" style="border-radius:50%" /><br>**Rail Raja** | 🟢 Railway Baron | Power | **Kulhad Blast** & Rail Track Sweep |
+| <img src="faces/mbapu.webp" width="48" height="48" style="border-radius:50%" /><br>**Mbapu (Boss)** | 🟡 Final Boss | Secret Boss | **Non-Violence Portal** & Budget Summon |
 
 </div>
 
@@ -97,13 +103,13 @@ Simply double-click **[`PLAY-GAME.bat`](PLAY-GAME.bat)** in the root folder. It 
 ### Option 2: Python Server
 ```bash
 python server.py
-# Open http://localhost:8080/
+# Automatically opens http://localhost:8080/
 ```
 
 ### Option 3: Node.js Server
 ```bash
 node server.js
-# Open http://localhost:8080/
+# Automatically opens http://localhost:8080/
 ```
 
 ### Option 4: Apache / XAMPP
@@ -113,15 +119,30 @@ Place the project in `htdocs/dashboard/fightkro/` and access it via `http://loca
 
 ## 📱 Android APK Installation
 
-1. Download [`FightKro-signed.apk`](FightKro-signed.apk?raw=true).
-2. On your Android phone, tap the downloaded `.apk` file and select **Install** (enable "Install unknown apps" for your browser/file manager if requested).
+1. Download [**`FightKro-signed.apk`**](https://github.com/Dr-MrBot/Fightkro/raw/main/FightKro-signed.apk).
+2. On your Android phone, tap the downloaded `.apk` file and select **Install** (allow "Install unknown apps" if prompted).
 3. Tap **Open** to enjoy smooth 60 FPS 3D fighting!
+
+---
+
+## ☕ Support the Project
+
+If you enjoyed playing FightKro and want to support ongoing updates:
+
+<div align="center">
+
+<img src="art/upi-qr.png" width="200" height="200" alt="UPI QR Code" style="border-radius: 14px; border: 2px solid #f59e0b; box-shadow: 0 4px 16px rgba(0,0,0,0.4);" />
+
+<p><b>Pay via UPI:</b> <code>uppolice70@naviaxis</code></p>
+<p><i>Supports GPay · PhonePe · Paytm · BHIM · Navi · Cred</i></p>
+
+</div>
 
 ---
 
 ## 🛠️ Technology Stack
 
-- **3D Graphics**: [Three.js](https://threejs.org/) + Google Draco 3D Geometry Compression
+- **3D Graphics Engine**: [Three.js](https://threejs.org/) + Google Draco 3D Geometry Compression
 - **Audio Engine**: Web Audio API with spatial audio effects
 - **Networking**: WebRTC Peer Connection + Data Channels
 - **Android Port**: Hardware-accelerated native Android Activity with immersive sticky fullscreen and embedded asset streaming
