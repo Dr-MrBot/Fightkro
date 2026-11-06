@@ -17,8 +17,11 @@
   <a href="https://dr-mrbot.github.io/Fightkro/">
     <img src="https://img.shields.io/badge/🎮_Play_Online-Live_Web_Game-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Online" />
   </a>
-  <a href="https://github.com/Dr-MrBot/Fightkro/raw/main/FightKro-signed.apk">
-    <img src="https://img.shields.io/badge/⬇️_Download_APK-FightKro--signed.apk_(31.8_MB)-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  <a href="https://github.com/Dr-MrBot/Fightkro/releases/download/v1.0.0/FightKro-signed.apk">
+    <img src="https://img.shields.io/badge/⬇️_Direct_Download_APK-v1.0.0_(31.8_MB)-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+  </a>
+  <a href="https://github.com/Dr-MrBot/Fightkro/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/badge/📦_Release_Page-v1.0.0-purple?style=for-the-badge&logo=github&logoColor=white" alt="Release Page" />
   </a>
   <a href="https://github.com/Dr-MrBot">
     <img src="https://img.shields.io/badge/Developer-Dr--MrBot-181717?style=for-the-badge&logo=github&logoColor=white" alt="Developer" />
@@ -41,7 +44,7 @@
 | Platform | Download / Launch | Description |
 | :--- | :---: | :--- |
 | 🌐 **Play Online** | [**🎮 Play on GitHub Pages**](https://dr-mrbot.github.io/Fightkro/) | Instant 3D fighting directly in any web browser without installation. |
-| 📱 **Android Mobile** | [**⬇️ Download FightKro-signed.apk**](https://github.com/Dr-MrBot/Fightkro/raw/main/FightKro-signed.apk) | Standalone signed APK with offline 3D models, sound effects, adaptive icon, and full-screen immersion. |
+| 📱 **Android Mobile** | [**⬇️ Download FightKro-signed.apk**](https://github.com/Dr-MrBot/Fightkro/releases/download/v1.0.0/FightKro-signed.apk) <br> *(or view [Release v1.0.0](https://github.com/Dr-MrBot/Fightkro/releases/tag/v1.0.0))* | Standalone signed APK with offline 3D models, sound effects, adaptive icon, and full-screen immersion. |
 | 💻 **PC / Windows** | **Double-click [`PLAY-GAME.bat`](PLAY-GAME.bat)** | Instant one-click local server with zero setup (no XAMPP needed). |
 | 🌐 **Local Web** | `http://localhost:8080/` | Run via `python server.py` or `node server.js` or Apache XAMPP. |
 
@@ -129,7 +132,7 @@ Place the project in `htdocs/dashboard/fightkro/` and access it via `http://loca
 
 ## 📱 Android APK Installation
 
-1. Download [**`FightKro-signed.apk`**](https://github.com/Dr-MrBot/Fightkro/raw/main/FightKro-signed.apk).
+1. Download [**`FightKro-signed.apk`**](https://github.com/Dr-MrBot/Fightkro/releases/download/v1.0.0/FightKro-signed.apk) from the [Official Release Page](https://github.com/Dr-MrBot/Fightkro/releases/tag/v1.0.0).
 2. On your Android phone, tap the downloaded `.apk` file and select **Install** (allow "Install unknown apps" if prompted).
 3. Tap **Open** to enjoy smooth 60 FPS 3D fighting!
 
