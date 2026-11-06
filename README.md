@@ -3,16 +3,25 @@
 <img src="icon-512.png" width="130" height="130" alt="FightKro Logo" style="border-radius: 28px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" />
 
 # 🥊 FIGHTKRO — SANSAD SHOWDOWN
-### *A 3D Political Satire Fighting Game for Web & Android Mobile*
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=F59E0B&center=true&vCenter=true&width=750&height=60&lines=🥊+SANSAD+SHOWDOWN+%E2%80%94+FIGHTKRO;⚡+THE+GREAT+DESI+KURSI+BATTLE+IN+FULL+3D!;👑+9+CARICATURE+NETAS+%C2%B7+SPECIALS+%C2%B7+COMBOS;🔥+DEVELOPED+%26+CRAFTED+BY+DR-MRBOT;📱+STANDALONE+SIGNED+ANDROID+APK+READY+TO+PLAY!" alt="Typing Banner" />
+### ⚡ *The Great Desi Kursi Battle in Full 3D* ⚡
+**A 3D Political Satire Fighting Game for Web & Android Mobile**
 
 <p align="center">
+  <b>👑 9 Iconic Netas</b> &nbsp;•&nbsp; 
+  <b>💥 Legendary Specials &amp; Combos</b> &nbsp;•&nbsp; 
+  <b>⚡ Real-Time 3D Physics</b> &nbsp;•&nbsp; 
+  <b>📱 Signed Android APK</b>
+</p>
+
+<p align="center">
+  <a href="https://dr-mrbot.github.io/Fightkro/">
+    <img src="https://img.shields.io/badge/🎮_Play_Online-Live_Web_Game-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Online" />
+  </a>
   <a href="https://github.com/Dr-MrBot/Fightkro/raw/main/FightKro-signed.apk">
-    <img src="https://img.shields.io/badge/⬇️_Direct_Download-FightKro--signed.apk_(31.8_MB)-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
+    <img src="https://img.shields.io/badge/⬇️_Download_APK-FightKro--signed.apk_(31.8_MB)-22c55e?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
   <a href="https://github.com/Dr-MrBot">
-    <img src="https://img.shields.io/badge/Developer-Dr--MrBot-blue?style=for-the-badge&logo=github&logoColor=white" alt="Developer" />
+    <img src="https://img.shields.io/badge/Developer-Dr--MrBot-181717?style=for-the-badge&logo=github&logoColor=white" alt="Developer" />
   </a>
 </p>
 
@@ -31,6 +40,7 @@
 
 | Platform | Download / Launch | Description |
 | :--- | :---: | :--- |
+| 🌐 **Play Online** | [**🎮 Play on GitHub Pages**](https://dr-mrbot.github.io/Fightkro/) | Instant 3D fighting directly in any web browser without installation. |
 | 📱 **Android Mobile** | [**⬇️ Download FightKro-signed.apk**](https://github.com/Dr-MrBot/Fightkro/raw/main/FightKro-signed.apk) | Standalone signed APK with offline 3D models, sound effects, adaptive icon, and full-screen immersion. |
 | 💻 **PC / Windows** | **Double-click [`PLAY-GAME.bat`](PLAY-GAME.bat)** | Instant one-click local server with zero setup (no XAMPP needed). |
 | 🌐 **Local Web** | `http://localhost:8080/` | Run via `python server.py` or `node server.js` or Apache XAMPP. |
