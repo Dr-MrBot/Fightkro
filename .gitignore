@@ -1,0 +1,15 @@
+# Build directories and caches
+.gradle/
+**/build/
+android-app/.gradle/
+android-app/build/
+android-app/app/build/
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml

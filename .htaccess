@@ -1,0 +1,16 @@
+# Fightkro - Apache Configuration
+<IfModule mod_mime.c>
+  AddType model/gltf-binary .glb
+  AddType model/gltf+json .gltf
+  AddType application/wasm .wasm
+  AddType image/webp .webp
+  AddType application/manifest+json .webmanifest
+  AddType audio/mpeg .mp3
+  AddType video/mp4 .mp4
+</IfModule>
+
+<IfModule mod_headers.c>
+  # Enable CORS for assets if embedded or loaded across origins
+  Header set Access-Control-Allow-Origin "*"
+</IfModule>
+
